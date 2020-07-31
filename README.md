@@ -3,9 +3,9 @@
 ___
 
 
-<!-- <p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/81e122dabb397c66-logo.png" width="300" heigth="300">
-</p> -->
+<p align="center">
+  <img src="https://github.com/jjotatp/gymmanager/blob/master/gymmanager.jpeg?raw=true" width="300" heigth="300">
+</p>
 
 
 <p align="center">
@@ -25,15 +25,17 @@ ___
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/fc7aa79b10014861-logo.png" width="1200">
+<!--<img src="https://readme-maker.herokuapp.com/uploads/fc7aa79b10014861-logo.png" width="1200">-->
 
 ## :information_source: Sobre
 
-Projeto do Bootcamp da Rocketseat
+<b>Projeto do Bootcamp da Rocketseat</b> <br>
+A ideia é apresentar o CRUD básico trabalhando com funcionalidades do Node no back-end, com o front usando apenas HTML, CSS e JS de forma atual. A aplicação tem como banco de dados o PostreSQL.
 
 ## :interrobang: Motivo
 
-Plataforma de controle de academia
+<b>Plataforma de controle de academia</b><br>
+Esta aplicação esta separando Instrutores e Membros, que podemos cadastras, atualizar os cadastros, e deletar, tanto instrutores, como para membros. Sendo que cara membro pode ter apenas um instrutor, e instrutor pode ter vários membros. 
 
 ## :rocket: Tecnologias Utilizadas 
 
@@ -45,6 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Nunjucks
 - JSON
 - Node
+- SQL
 
 ## Licença 
 
